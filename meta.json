@@ -1,0 +1,41 @@
+{
+    "last_commit": "4e3a5c1de0c0b4f665611410a4ad2aa3260a1750",
+    "modules": [
+        {
+            "pack": {
+                "pack_format": 8,
+                "description": [
+                    "Resources",
+                    "\n",
+                    {
+                        "text": "Gamemode 4 for 1.18",
+                        "color": "aqua"
+                    }
+                ]
+            },
+            "module_name": "Resource Pack",
+            "module_id": "resources",
+            "credits": {
+                "Management": [
+                    [
+                        "Hozz",
+                        "https://twitter.com/Hozz8528"
+                    ],
+                    [
+                        "Andante",
+                        "https://twitter.com/Andantweets"
+                    ],
+                    [
+                        "Misode",
+                        "https://twitter.com/misode_"
+                    ],
+                    [
+                        "JP12",
+                        ""
+                    ]
+                ]
+            }
+        }
+
+    ]
+}
